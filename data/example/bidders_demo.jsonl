@@ -1,0 +1,2 @@
+{"name": "Bidder 1", "model_name": "gpt-4-0613", "budget": 10000, "desire": "maximize_profit", "plan_strategy": "adaptive", "temperature": 0.7, "overestimate_percent": 10, "correct_belief": true, "enable_learning": false}
+{"name": "Bidder 2", "model_name": "gpt-3.5-turbo-0613", "budget": 10000, "desire": "maximize_profit", "plan_strategy": "adaptive", "temperature": 0.7, "overestimate_percent": 10, "correct_belief": true, "enable_learning": false}

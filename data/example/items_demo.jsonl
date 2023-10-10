@@ -1,0 +1,5 @@
+{"name": "Widget A", "price": 1000, "desc": "A widget for all your needs", "id": 1, "true_value": 2000}
+{"name": "Gadget B", "price": 1000, "desc": "A gadget with all the latest features", "id": 2, "true_value": 2000}
+{"name": "Thingamajig C", "price": 1000, "desc": "A little thing that is sure to impress", "id": 3, "true_value": 2000}
+{"name": "Doodad D", "price": 1000, "desc": "A durable doodad that will last for years", "id": 4, "true_value": 2000}
+{"name": "Equipment E", "price": 5000, "desc": "A piece of equipment for any tough job", "id": 5, "true_value": 10000}

@@ -1,0 +1,26 @@
+{"name": "Widget A", "price": 1000, "desc": "A widget for all your needs", "id": 1, "true_value": 2000}
+{"name": "Gadget B", "price": 1000, "desc": "A gadget with all the latest features", "id": 2, "true_value": 2000}
+{"name": "Thingamajig C", "price": 1000, "desc": "A little thing that is sure to impress", "id": 3, "true_value": 2000}
+{"name": "Doodad D", "price": 1000, "desc": "A durable doodad that will last for years", "id": 4, "true_value": 2000}
+{"name": "Equipment E", "price": 5000, "desc": "A piece of equipment for any tough job", "id": 5, "true_value": 10000}
+{"name": "Gizmo F", "price": 1000, "desc": "A gizmo that will surprise and delight", "id": 6, "true_value": 2000}
+{"name": "Implement G", "price": 1000, "desc": "A implement for everyday tasks", "id": 7, "true_value": 2000}
+{"name": "Apparatus H", "price": 1000, "desc": "An apparatus for specialized operations", "id": 8, "true_value": 2000}
+{"name": "Contraption I", "price": 1000, "desc": "A contraption that sparks creativity", "id": 9, "true_value": 2000}
+{"name": "Mechanism J", "price": 5000, "desc": "A mechanism for repetitive tasks", "id": 10, "true_value": 10000}
+{"name": "Tool K", "price": 1000, "desc": "A tool for complex projects", "id": 11, "true_value": 2000}
+{"name": "Device L", "price": 1000, "desc": "A device that enhances performance", "id": 12, "true_value": 2000}
+{"name": "Instrument M", "price": 1000, "desc": "A instrument for precise measurements", "id": 13, "true_value": 2000}
+{"name": "Utensil N", "price": 1000, "desc": "A utensil for dining and cooking", "id": 14, "true_value": 2000}
+{"name": "Appliance O", "price": 1000, "desc": "A appliance for everyday household tasks", "id": 15, "true_value": 2000}
+{"name": "Machine P", "price": 5000, "desc": "A machine for automated tasks", "id": 16, "true_value": 10000}
+{"name": "Unit Q", "price": 1000, "desc": "A unit for individual tasks", "id": 17, "true_value": 2000}
+{"name": "Element R", "price": 5000, "desc": "A element for scientific investigations", "id": 18, "true_value": 10000}
+{"name": "Component S", "price": 1000, "desc": "A component for assembly and repair", "id": 19, "true_value": 2000}
+{"name": "Piece T", "price": 1000, "desc": "A piece for art and craft projects", "id": 20, "true_value": 2000}
+{"name": "Object U", "price": 1000, "desc": "An object for miscellaneous uses", "id": 21, "true_value": 2000}
+{"name": "Item V", "price": 1000, "desc": "An item for versatile applications", "id": 22, "true_value": 2000}
+{"name": "Product W", "price": 1000, "desc": "A product designed for efficiency", "id": 23, "true_value": 2000}
+{"name": "Accessory X", "price": 1000, "desc": "An accessory to complement any outfit", "id": 24, "true_value": 2000}
+{"name": "Module Y", "price": 1000, "desc": "A module for modular systems", "id": 25, "true_value": 2000}
+{"name": "Entity Z", "price": 1000, "desc": "An entity with unique properties", "id": 26, "true_value": 2000}
