@@ -2,8 +2,9 @@ import gradio as gr
 
 title = """<img src="https://huggingface.co/spaces/jiangjiechen/Auction-Arena-Demo/resolve/main/assets/logo.png" style="float: left;" width="200" height="200"><h1> Auction Arena </h1>
 
-An interactive demo for this paper: <a href="https://auction-arena.github.io">Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena</a>. Details of this work can be found at <a href="https://auction-arena.github.io">this page</a>. <br>
-
+An interactive demo for this paper: <a href="https://arxiv.org/abs/2310.05746">Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena</a>. Details of this work can be found at <a href="https://auction-arena.github.io">this page</a>. 
+<br>
+<br>
 After choosing items and setting the basic auction rules (like shuffle item order, setting minimal increase, enable discount if none bids, etc.), you can either watch AI vs AI in this auction arena by setting `model_name` as LLMs. Or if you like to participate in the competition yourself, you can set `model_name=human` to engage in the arena personally. Please <b>enter your API key</b> before start. <b>OpenAI API Key is a must</b>, others are not. Otherwise you will encounter errors (please refresh the page if you do). 
 <br>
 <br>
