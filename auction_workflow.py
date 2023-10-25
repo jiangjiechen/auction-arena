@@ -246,7 +246,7 @@ if __name__ == '__main__':
     from src.item_base import create_items
     from src.bidder_base import create_bidders
     from transformers import GPT2TokenizerFast
-    import cjjpy as cjj
+    # import cjjpy as cjj
     
     parser = argparse.ArgumentParser()
     parser.add_argument('--input_dir', '-i', type=str, default='data/exp_base/')
@@ -290,4 +290,4 @@ if __name__ == '__main__':
                 print(f"Retry {cnt} more times...")
     
     print('Total money spent: $', total_money_spent)
-    cjj.SendEmail(f'Completed: {args.input_dir} - {auction_hash}', f'Total money spent: ${total_money_spent}')
+    # cjj.SendEmail(f'Completed: {args.input_dir} - {auction_hash}', f'Total money spent: ${total_money_spent}')
