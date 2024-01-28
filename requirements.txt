@@ -1,7 +1,7 @@
-openai>=0.27.8
-langchain>=0.0.234
-anthropic>=0.3.10
-gradio
+openai==0.28.0
+langchain==0.0.350
+anthropic==0.3.10
+gradio==3.39.0
 pydantic
 coloredlogs
 ujson
@@ -9,7 +9,7 @@ tiktoken
 tqdm
 inflect
 vertexai
-google-cloud-aiplatform>=1.28.1
+google-cloud-aiplatform==1.28.1
 torch
 pygments
 matplotlib
